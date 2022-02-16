@@ -1,0 +1,72 @@
+body{
+  background-color : grey;
+  margin-top       : 10px;
+  font-family      : Arial;
+  font-weight      : 800;
+  text-align       : center;
+  font-color       : white;
+}
+table{
+  width            : 100%;
+  height           : 80%;
+  font-family      : Arial, sans-serif;
+  margin-top       : 25px;
+  
+  }
+
+  #submitApiKey{
+  background-color : teal;
+  width            : 50%;
+  font-family      : georgia;
+  font-size        : 30px;
+  }
+
+#apiKey{
+  width            : 80%;
+}
+
+#refresh{
+  background-color : teal;
+  width            : 40%;
+  font-family      : georgia;
+  font-size        : 30px
+}
+
+#addContact{
+  background-color : teal;
+  width            : 40%;
+  font-family      : georgia;
+  font-size        : 30px
+}
+
+#editForm{
+   background-color : teal;
+   width            : 50%;
+   margin-top       : 150px;
+   margin-left      : 350px;
+}
+
+#submitForm{
+  background-color : pink;
+  width            : 40%;
+  font-family      : georgia;
+  font-size        : 20px
+}
+
+#homeLink{
+  background-color : pink;
+  width            : 40%;
+  font-family      : georgia;
+  font-size        : 20px
+}
+
+
+
+
+
+
+
+
+
+
+
